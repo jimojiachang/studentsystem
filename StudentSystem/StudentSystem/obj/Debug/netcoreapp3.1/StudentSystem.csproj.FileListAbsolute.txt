@@ -1,0 +1,13 @@
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\StudentSystem.exe
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\StudentSystem.deps.json
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\StudentSystem.runtimeconfig.json
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\StudentSystem.runtimeconfig.dev.json
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\StudentSystem.dll
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\bin\Debug\netcoreapp3.1\StudentSystem.pdb
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\StudentSystem.csprojAssemblyReference.cache
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\StudentSystem.AssemblyInfoInputs.cache
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\StudentSystem.AssemblyInfo.cs
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\StudentSystem.csproj.CoreCompileInputs.cache
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\StudentSystem.dll
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\StudentSystem.pdb
+E:\文件资料\StudentsSystem\StudentSystem\StudentSystem\obj\Debug\netcoreapp3.1\StudentSystem.genruntimeconfig.cache
